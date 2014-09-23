@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/AzUnpack/Debug
+/AzUnpack/Release
+/AllegNetLib/Debug
+/AllegNetLib/Release
